@@ -1,0 +1,22 @@
+{
+  "name": "jfy",
+  "version": "1.0.0",
+  "description": "just for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWithSushil/jfy.git"
+  },
+  "keywords": [
+    "jfy"
+  ],
+  "author": "codewithsushil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeWithSushil/jfy/issues"
+  },
+  "homepage": "https://github.com/CodeWithSushil/jfy#readme"
+}
